@@ -5,7 +5,7 @@ App hosted on: https://jaycodist.github.io/ludybyte
 Node REST api hosted on: https://sleepy-woodland-98503.herokuapp.com
 
 Only login and signup operations are allowed at the moment.
-## To get started run `node express.js` or `npm start` in project directory
+## To get started run `node server.js` or `npm start` in project directory
 
 Requests for login and signup, respectively are expected to be in the form: 
 

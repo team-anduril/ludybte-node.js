@@ -145,7 +145,7 @@ const server = http.createServer((req, res) =>
 				<br />
 				<p style="display: block; font-size: 18px; margin: auto; width: 60vw; text-align: left;">  
 					Only login and signup operations are allowed at the moment. <br /><br />
-					To get started run 'node express.js' or 'npm start' in project directory <br /><br />
+					To get started run 'node server.js' or 'npm start' in project directory <br /><br />
 					Requests for login and signup, respectively are expected to be in the form: <br /><br /><br />
 					<code>fetch("localhost:3000/login?email=ab@cd.com&password=123abc")</code>   <br /><br /> 
 					AND <br /><br />
